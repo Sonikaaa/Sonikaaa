@@ -60,17 +60,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonikaaa&show_icons=true&locale=en&layout=compact&theme=radical" alt="sonikaaa" />
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonikaaa&show_icons=true&count_private=true&theme=radical" alt="sonikaaa" />
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonikaaa&theme=radical" alt="streak" />
-</p>
-
