@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/sonika-pant-874787268/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/sonika_pant" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2" alt="Twitter" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
