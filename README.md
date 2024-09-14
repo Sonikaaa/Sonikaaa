@@ -3,15 +3,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Wordpress%20Developer-brightgreen" alt="Role" />
-  <img src="https://img.shields.io/badge/Learning-Flutter%20%7C%20AWS-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/Learning-AWS-blue" alt="Learning" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMj5u1fda6Aeww/giphy.gif" alt="Developer" width="200"/>
-</p>
 
 🔭 I’m currently working as a Wordpress Developer.  
-🌱 I’m currently learning Flutter and AWS.  
+🌱 I’m currently learning AWS.  
 📫 Feel free to reach me at [sonikapant02@gmail.com](mailto:sonikapant02@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
