@@ -3,12 +3,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Wordpress%20Developer-brightgreen" alt="Role" />
-  <img src="https://img.shields.io/badge/Learning-AWS-blue" alt="Learning" />
 </p>
 
 
-🔭 I’m currently working as a Wordpress Developer.  
-🌱 I’m currently learning AWS.  
+🔭 I’m currently working as a Wordpress Developer.   
 📫 Feel free to reach me at [sonikapant02@gmail.com](mailto:sonikapant02@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
